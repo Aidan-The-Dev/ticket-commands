@@ -1,0 +1,25 @@
+{
+  "name": "ticket-commands",
+  "version": "1.0.0",
+  "description": "A simple and easy to use package for discord ticket management",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["discord.js", "d.js", "djs", "ticket", "tickets"],
+  "author": "",
+  "license": "ISC",
+    "homepage": "https://github.com/pog-sister/ticket-commands",
+    "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pog-sister/ticket-commands"
+  },
+  "bugs": {
+    "url": "https://github.com/pog-sister/ticket-commands"
+  },
+    "deprecated": false
+}
